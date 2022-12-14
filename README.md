@@ -1,3 +1,3 @@
 # jamie-website
-My first GitHub repo!
-Hello Odin!
+This is the repo for my website.
+As you can tell, there's a lot of work to be done!
