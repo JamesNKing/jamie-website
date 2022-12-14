@@ -1,3 +1,0 @@
-This is some sample text for hello_world. 
-This file should live in fear, as its time is short. 
-Perhaps it will have solace in the fact that it can live on in git records.
